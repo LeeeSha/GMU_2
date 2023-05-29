@@ -28,13 +28,13 @@ img {
 	background-attachment: scroll;
 	background-size: 1080px;
 	background-repeat: no-repeat;
-	margin-top: 300px;
+	margin-top: 15%;
 }
 	#textbord {
 	padding: auto;
 	margin: auto;
 	border: 7px solid #000000;
 	opacity: 0.9;
-	width: 250px;
+	width: 50%;
 	}
 }
