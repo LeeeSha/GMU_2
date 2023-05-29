@@ -22,7 +22,7 @@ img {
 	text-align: center;
 }
 
-@media (max-width: 1080px) {
+@media (max-width: 320px) {
 	background-size: 280px;
 	#textbord {
 	padding: auto;
