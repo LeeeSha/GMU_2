@@ -22,19 +22,19 @@ img {
 	text-align: center;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 1080px) {
 	body {
 	background-image: url(images/background.jpg); 
 	background-attachment: scroll;
-	background-size: 720px;
+	background-size: 1080px;
 	background-repeat: no-repeat;
-	margin-top: 175px;
+	margin-top: 300px;
 }
 	#textbord {
 	padding: auto;
 	margin: auto;
 	border: 7px solid #000000;
 	opacity: 0.9;
-	width: 50px;
+	width: 250px;
 	}
 }
