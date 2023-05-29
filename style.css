@@ -22,8 +22,14 @@ img {
 	text-align: center;
 }
 
-@media (max-width: 320px) {
-	background-size: 280px;
+@media (max-width: 576px) {
+	body {
+	background-image: url(images/background.jpg); 
+	background-attachment: scroll;
+	background-size: 720px;
+	background-repeat: no-repeat;
+	margin-top: 175px;
+}
 	#textbord {
 	padding: auto;
 	margin: auto;
