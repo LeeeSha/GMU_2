@@ -26,7 +26,7 @@ img {
 	body {
 	background-image: url(images/background.jpg); 
 	background-attachment: scroll;
-	background-size:  1080px;
+	background-size:  100%;
 	background-repeat: no-repeat;
 	margin-top: 25%;
 }
@@ -35,12 +35,12 @@ img {
 	margin: auto;
 	border: 7px solid #000000;
 	opacity: 0.9;
-	width: 648px;
+	width: 60%;
 }
 	img {
 	display: block;
     margin-left: auto;
     margin-right: auto;
-	width:80%;
+	width:60%;
 }
 }
