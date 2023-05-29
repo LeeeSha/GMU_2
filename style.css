@@ -24,23 +24,23 @@ img {
 
 @media screen and (max-width: 1080px) and (max-height: 2400px) {
 	body {
-	background-image: url(images/background.jpg); 
+	background-image: url(images/background.jpg) ; 
 	background-attachment: scroll;
-	background-size:  100%;
+	background-size:  1080px;
 	background-repeat: no-repeat;
 	margin-top: 25%;
 }
-	div {
+	div.textbord {
 	padding: auto;
 	margin: auto;
 	border: 7px solid #000000;
 	opacity: 0.9;
-	width: 60%;
+	width: 600px;
 }
 	img {
 	display: block;
     margin-left: auto;
     margin-right: auto;
-	width:60%;
+	width:600px;
 }
 }
