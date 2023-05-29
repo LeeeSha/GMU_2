@@ -35,12 +35,12 @@ img {
 	margin: auto;
 	border: 7px solid #000000;
 	opacity: 0.9;
-	width: 50%;
+	width: 60%;
 }
 	img {
 	display: block;
     margin-left: auto;
     margin-right: auto;
-	width:290px;
+	width:315px;
 }
 }
