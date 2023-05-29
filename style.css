@@ -23,12 +23,12 @@ img {
 }
 
 @media (max-width: 1080px) {
-	background-size: 560px;
+	background-size: 280px;
 	#textbord {
 	padding: auto;
 	margin: auto;
 	border: 7px solid #000000;
 	opacity: 0.9;
-	width: 200px;
+	width: 50px;
 	}
 }
