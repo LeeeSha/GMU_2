@@ -26,9 +26,9 @@ img {
 	body {
 	background-image: url(images/background.jpg); 
 	background-attachment: fixed;
-	background-size: cover;
+	background-size: contain;
 	background-repeat: no-repeat;
-	margin-top: 25%;
+	margin-top: 18%;
 }
 div.textbord {
 	padding: auto;
