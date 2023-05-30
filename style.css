@@ -24,7 +24,7 @@ img {
 
 @media (max-width: 1080px) {
 	body {
-	background-image: url(images/background.jpg); 
+	background-image: url(images/backgroundphone.jpg); 
 	background-attachment: fixed;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -33,14 +33,14 @@ img {
 #textbord {
 	padding: auto;
 	margin: auto;
-	border: 7px solid #000000;
+	border: 3px solid #000000;
 	opacity: 0.9;
-	width: 300px;
+	width: 600px;
 	}
 img {
 	display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 295px;
+    width: 500px;
 }
 }
